@@ -19,11 +19,11 @@
       <% } %>
       <% /* %>
       <div class="page-meta">
-        <p>出自网道（WangDoc.com），互联网开发文档</p>
+        <p>出自whoyiming</p>
       </div>
       <% */ %>
       <% if (!isHomepage) { %>
-      <p>作者： 阮一峰</p>
+      <p>作者： 胡溢明</p>
       <% } %>
       <%= content %>
     </article>
